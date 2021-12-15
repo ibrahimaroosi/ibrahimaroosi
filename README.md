@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimaroosi
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Kotlin and Android
 
 <!---
 ibrahimaroosi/ibrahimaroosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
